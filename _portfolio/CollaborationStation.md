@@ -9,6 +9,8 @@ short-description: Collaboration Station is an a production quality SaaS app tha
 {:.center}
 ![]({{ site.baseurl }}/img/Collaboration.png)
 
+[View on Github](https://github.com/perception801/CollaborationStation)
+
 ## Overview
 
 "Collaboration Station" is a SaaS wiki app that I created during my time at Bloc. This is a Wiki application in which users can browse, create, and edit public Wikis. It also allows user to upgrade their account using Stripe. This allows users to create private wikis while also adding the ability to collaborate with other users.
@@ -33,3 +35,4 @@ My main goal for this app was to learn how to integrate MongoDB into my apps. I 
 ## Conclusion
 
 Learning to use MongoDB was a great introduction into the world of NoSQL databases. It was suprising to learn how different they were from traditional databases. Learning how to use and interact with NoSQL databases will help me further my web development career. 
+

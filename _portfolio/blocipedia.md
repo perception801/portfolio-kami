@@ -8,6 +8,8 @@ short-description: An analytics API and reporting tool.
 {:.center}
 ![]({{ site.baseurl }}/img/analytic.png)
 
+[View on Github](https://github.com/perception801/EasyAnalytics)
+
 # Overview
 
 "Easy Analytics" is an analytics service and reporting tool that you can use with web apps to track user activity and report results. This app is a server side API, client-side Javascript file to track web activity, and a web-accessible dashboard to vizulize event data. 

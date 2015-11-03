@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Questions? Comments? Just want to say hi? Please enter your name and email address in the form below. Thanks for stopping by!
+Questions? Comments? Just want to say Hi? Please enter your name and email address in the form below. Thanks for stopping by!
 
 <form action="https://getsimpleform.com/messages?form_api_token=8acc03a659276d30445e521bccbdc9c9" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
